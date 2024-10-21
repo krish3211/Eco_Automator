@@ -2,6 +2,7 @@
 
 
 ## Folder Structure
+```
 your_project/
 │
 ├── assets/
@@ -10,3 +11,4 @@ your_project/
 ├── requirements.txt
 ├── Human_detection.py
 └── Camera_main.py
+```
